@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+C:\Users\akuma\OneDrive\Desktop\Nexus\SDL\.metadata\.plugins\org.eclipse.jdt.core
-4251708008.index

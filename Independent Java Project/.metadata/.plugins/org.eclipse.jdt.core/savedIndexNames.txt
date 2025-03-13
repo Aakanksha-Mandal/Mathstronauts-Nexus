@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\akuma\OneDrive\Desktop\Nexus\SDL\.metadata\.plugins\org.eclipse.jdt.core
+3460880079.index
+4251708008.index
